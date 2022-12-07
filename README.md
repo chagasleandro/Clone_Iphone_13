@@ -1,14 +1,26 @@
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
+
 # Clone_Página da Apple
 
 <h1>Apple Brasil</h1>
 <p>Segue abaixo imagem do projeto o clone da página da Apple (iPhone 13 Pro) </p>
 
-## Sobre:
+# 💻 Projeto:
 <p>Esse projeto é o clone da página do iPhone 13 Pro e você tem acesso a toda loja oficial da Apple.
 Na parte do Header foi criado link de acesso sobre o site oficial da Apple onde, qual usuário consegue ver ou comprar um celular ou até um Mac ou AirPods e também acesso ao supporte técnico da Apple.
 </p>
 
-## Tecnologias uitilizado nesse projeto
+## 🚀 Tecnologias:
 <img  alt="HTML"
      src="https://img.shields.io/badge/HTML-%231572B6?style=for-the-badge&logo=html&logoColor=white"/>
 <img alt="CSS"
@@ -28,6 +40,6 @@ https://www.apple.com/br/
 $ git clone https://github.com/chagasleandro/Clone_IPhone_13
 ```
 
-## Servidor de desenvolvimento
+## 🔖 Layout:
 
 Execute `index.html` para um servidor dev. Navegue até `http://127.0.0.1:5500/index.html#/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
